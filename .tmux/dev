@@ -1,0 +1,5 @@
+
+selectp -t 0 # select the first (0) pane
+splitw -v -p 25 # split it into two halves
+
+
